@@ -7,8 +7,8 @@
     </list>
     <ignored path="cross-domain-scripting.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="b4195fa1-5730-4f59-a8c7-424642cf0ea8" time="1381439224479" ignored="false" />
-    <file path="/index.html" changelist="b4195fa1-5730-4f59-a8c7-424642cf0ea8" time="1381439417295" ignored="false" />
+    <file path="/Dummy.txt" changelist="b4195fa1-5730-4f59-a8c7-424642cf0ea8" time="1381439460047" ignored="false" />
+    <file path="/index.html" changelist="b4195fa1-5730-4f59-a8c7-424642cf0ea8" time="1381439610160" ignored="false" />
     <file path="/index.md" changelist="b4195fa1-5730-4f59-a8c7-424642cf0ea8" time="1381426617899" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="47" selection-start="5893" selection-end="5893" vertical-scroll-proportion="-0.36752138">
+            <state line="152" column="37" selection-start="6625" selection-end="6625" vertical-scroll-proportion="0.5509601">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
                 <element signature="tag#script#2;tag#body#0;tag#html#0" expanded="false" />
@@ -314,7 +314,11 @@
       <created>1381439227472</created>
       <updated>1381439227472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updating notes">
+      <created>1381439462477</created>
+      <updated>1381439462477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -341,7 +345,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19655667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4065282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -437,9 +441,16 @@
         <state line="26" column="12" selection-start="773" selection-end="773" vertical-scroll-proportion="0.5371901" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="47" selection-start="5893" selection-end="5893" vertical-scroll-proportion="-0.36752138">
+        <state line="152" column="37" selection-start="6625" selection-end="6625" vertical-scroll-proportion="0.5509601">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#script#2;tag#body#0;tag#html#0" expanded="false" />
