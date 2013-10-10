@@ -139,7 +139,7 @@
                     <script type="text/template">
                         ## Current Solutions
                         * JSONP
-                        * OAuth access_token
+                        * OAuth2/IMS access_token
                         * postMessage for inner application communication between Ion Reporter and Variant Analysis
                         * CAS Proxy Granting Ticket for one server to execute another services API on the user's behalf
                         * CAS Gateway to determine if user is authenticated to the application service
@@ -147,6 +147,7 @@
                             * activate samples (via postMessage event handling)
                             * logout
                             * getLoginStatus
+                            * datastream upload widget
                         * YQL library for screen scraping
                         * easyXDM for messaging channel abstraction
                     </script>
@@ -154,7 +155,7 @@
                 <section data-markdown>
                     <script type="text/template">
                         ## Responsibility
-                        Should this be own by the Service Provider?
+                        Should this be done by the individual application owner?
 
                         * Provide Client SDK
                             * JavaScript
