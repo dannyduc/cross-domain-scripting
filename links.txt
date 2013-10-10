@@ -1,0 +1,44 @@
+
+
+http://stackoverflow.com/questions/298745/how-do-i-send-a-cross-domain-post-request-via-javascript
+
+http://www.html5rocks.com/en/tutorials/cors/
+
+https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS?redirectlocale=en-US&redirectslug=HTTP_access_control
+
+http://www.ibm.com/developerworks/library/wa-crossdomaincomm/
+
+http://stackoverflow.com/questions/16862207/facebook-and-cross-domain-messaging-clarification
+
+http://madskristensen.net/post/Iframe-cross-domain-JavaScript-calls
+
+http://www.slideshare.net/SlexAxton/breaking-the-cross-domain-barrier
+postMessage
+JSONP (JavaScript Object Notation with Padding)
+CORS
+document.doman mods/subdomain tunnel
+window.name Transport
+Server-Side Proxy
+CRAZY IFRAME STUFF
+MOAR
+tunnel.html
+
+iframe messaging
+postMessage
+window.name
+url fragments
+flash
+catch 'em all: easyXDM
+
+
+Authentication
+
+issues:
+  session managment
+  sso vs. main web app
+
+Flash based solutions:
+  crossdomain.xml
+    
+
+
